@@ -15,7 +15,7 @@
 3. **PROMPT调优**：准备多条prompt，在相同的工作流下进行尝试，得出较有优的prompt模板。
 
 ## 项目功能
-<此处应该有一张图>
+
 ![image](https://github.com/user-attachments/assets/9527fd65-09cd-4e9e-9bf1-d5d6643a48ef)
 
 
